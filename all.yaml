@@ -6,4 +6,3 @@ metadata:
 spec:
   targets:
     - ./packages/all-domains.yaml
-    - ./packages/all-resources.yaml
