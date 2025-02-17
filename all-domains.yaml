@@ -1,9 +1,0 @@
-apiVersion: backstage.io/test123
-kind: Location
-metadata:
-  name: example-domains
-  description: A collection of all Backstage example domains
-spec:
-  targets:
-    - ./packages/audio-domain.yaml
-    - ./packages/artists-domain.yaml
